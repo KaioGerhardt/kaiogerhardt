@@ -1,13 +1,13 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<h1 align="center">Hi there, it's Kaio!</h1>
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Here's some stuff about me:
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=kaiogerhardt)
+- 📚 I'm studying Analysis and systems development
+- 🌍 From Brasil
+- 🌱 Interest in web development
+- 📬 Find me on [Linkedin](https://linkedin.com/in/kaiogerhardt), [Instagram](https://www.instagram.com/kaiogerhardt/), [Site](http://kaiogerhardt.dev.br/) or just [email me](mailto:kaio@kaiogerhardt.dev.br)!
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaiogerhardt/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kaiogerhardt/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
-
-![Snake animation](https://github.com/kaiogerhardt/kaiogerhardt/blob/output/github-contribution-grid-snake.svg)
+<a href=https://github.com/kaiogerhardt>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=kaiogerhardt&custom_title=My%20GIthub%20Stats%21&theme=vue&count_private=true&include_all_commits=true&show_icons=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiogerhardt&custom_title=Which%20languages%20I%20use%20the%20most%3F&theme=vue&hide=ampl,tex&layout=compact&langs_count=6" />
+</a>
